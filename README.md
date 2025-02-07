@@ -1,2 +1,2 @@
-# goit-js-hw-04
-Mодуль 4. Об'єкти
+# goit-js-hw
+JavaScript 
